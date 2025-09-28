@@ -58,4 +58,11 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 
 ---
 
-<sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
+https://docs.strapi.io/cms/quick-start
+```
+ npx create-strapi@latest my-strapi-project
+```
+
+https://www.youtube.com/watch?v=dVQKqZYWyv4
+
+https://docs.strapi.io/cms/features/api-tokens
