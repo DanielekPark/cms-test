@@ -1,10 +1,10 @@
 {
   "kind": "collectionType",
-  "collectionName": "council_members",
+  "collectionName": "tribe_members",
   "info": {
-    "singularName": "council-member",
-    "pluralName": "council-members",
-    "displayName": "Council_Member"
+    "singularName": "tribe-member",
+    "pluralName": "tribe-members",
+    "displayName": "Tribe_Member"
   },
   "options": {
     "draftAndPublish": true
@@ -15,10 +15,10 @@
       "type": "text"
     },
     "Position": {
-      "type": "string"
+      "type": "text"
     },
     "Name": {
-      "type": "text"
+      "type": "string"
     }
   }
 }
